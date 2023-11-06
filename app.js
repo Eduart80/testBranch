@@ -8,4 +8,5 @@ function test(numb1, numb2, numb3) {
     return sum;
 }
 test(one, two, three)
+const something = "text string with one and two"
 exports.test = test
