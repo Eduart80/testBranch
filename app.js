@@ -8,5 +8,5 @@ function test(numb1, numb2, numb3) {
     return sum;
 }
 test(one, two, three)
-const something = "text string with one and two"
+const something = "text string with one and two numbers separated by spaces separated by spaces"
 exports.test = test
