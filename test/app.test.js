@@ -14,8 +14,8 @@ describe("when open test", function() {
         expect(a).not.to.equal(b)
     })
     it("should start three", function() {
-        let a = appD.test(12,2,3)
-        let b = 16
+        let a = appD.test(12,2,4)
+        let b = 18
         expect(a).to.equal(b)
     })
 
